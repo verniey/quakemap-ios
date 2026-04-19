@@ -32,5 +32,7 @@ Views/          EarthquakeMapView.swift   — map screen
 
 ## Data
 
-USGS publishes earthquake data under public domain:
-https://www.usgs.gov/faqs/what-united-states-geological-survey-usgs-policy-use-its-content
+Credit: U.S. Geological Survey / Department of the Interior / USGS
+
+USGS-authored data is in the U.S. Public Domain and can be freely used:
+https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits
